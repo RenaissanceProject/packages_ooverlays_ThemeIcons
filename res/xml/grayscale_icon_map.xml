@@ -402,4 +402,5 @@
     <icon drawable="@drawable/themed_icon_netease" package="com.netease.cloudmusic" />
     <icon drawable="@drawable/themed_icon_wechat" package="com.tencent.mm" />
     <icon drawable="@drawable/themed_icon_taobao" package="com.taobao.taobao" />
+    <icon drawable="@drawable/themed_icon_google_cloud_console" package="com.google.android.apps.cloudconsole" />
 </icons>
