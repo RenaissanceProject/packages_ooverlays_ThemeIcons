@@ -291,7 +291,13 @@
     <icon drawable="@drawable/themed_icon_sharik" package="dev.marchello.sharik" />
     <icon drawable="@drawable/themed_icon_sheets" package="com.google.android.apps.docs.editors.sheets" />
     <icon drawable="@drawable/themed_icon_shiori" package="com.miraisoft.shiori" />
+    <icon drawable="@drawable/themed_icon_shopee" package="com.shopee.br" />
+    <icon drawable="@drawable/themed_icon_shopee" package="com.shopee.id" />
+    <icon drawable="@drawable/themed_icon_shopee" package="com.shopee.my" />
     <icon drawable="@drawable/themed_icon_shopee" package="com.shopee.ph" />
+    <icon drawable="@drawable/themed_icon_shopee" package="com.shopee.sg" />
+    <icon drawable="@drawable/themed_icon_shopee" package="com.shopee.tw" />
+    <icon drawable="@drawable/themed_icon_shopee" package="com.shopee.vn" />
     <icon drawable="@drawable/themed_icon_shopeepay" package="com.beeasy.toppay" />
     <icon drawable="@drawable/themed_icon_signal" package="org.thoughtcrime.securesms" />
     <icon drawable="@drawable/themed_icon_skype" package="com.skype.raider" />
